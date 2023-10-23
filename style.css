@@ -1,0 +1,12 @@
+p {
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF8C;
+}
+
+a:hover {
+    color: #ffffffb7;
+}
